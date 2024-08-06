@@ -1,10 +1,10 @@
 # Camping Packliste
 
 ## Unterkunft und Schlafen
-- [ ] 2 Campingstühle
-- [ ] 1 Campingtisch
-- [ ] 2 Bettdecken und 2 Kissen
-- [ ] 2 Isomatten oder Luftmatratzen (falls benötigt)
+[ ] 2 Campingstühle
+[ ] 1 Campingtisch
+[ ] 2 Bettdecken und 2 Kissen
+[ ] 2 Isomatten oder Luftmatratzen (falls benötigt)
 
 ## Küchenausstattung
 
